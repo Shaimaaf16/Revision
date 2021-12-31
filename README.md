@@ -7,3 +7,6 @@ the other  file is  Customer segmentation.ipynb  Customer Segmentation with RFM 
  revision-Task.ipynb  & Customer segmentation.ipynb  are merged in all_work.ipynb file 
  
 So you can just run the all_work notebook.  also  i extract the  notebook  as  pdf you can  check it .
+
+Note:
+i did't upload the data files it should be in same directory
